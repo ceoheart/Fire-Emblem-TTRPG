@@ -299,7 +299,7 @@
              <div class="sheet-col-1-7 sheet-center sheet-small-label">Attack Stat</div>
                                     <div class="sheet-col-1-14 sheet-center sheet-small-label">Durability</div>
                                                       <div class="sheet-col-1-14 sheet-center sheet-small-label">Max Dura.</div>
-                  <div class="sheet-col-1-14 sheet-center sheet-small-label">Weight</div>
+                  <div class="sheet-col-1-14 sheet-center sheet-small-label">Weight/Spd Penalty</div>
                   <div class="sheet-col-1-14 sheet-center sheet-small-label">Crit</div>
                   <div class="sheet-col-1-14 sheet-center sheet-small-label">Range</div>
                   <div class="sheet-col-1-10 sheet-center sheet-small-label">Avoidance</div>
@@ -610,7 +610,7 @@
                   <button type="roll" class="sheet-roll" name="expkill" value="/me gained [[@{exptype}*({0d0+1, 0d0+(?{Enemy's Level|0} - @{level}) + 30 + ?{Defender's Status|None, 0|Boss, 40|Priest, -20|Thief, 20}}d1)]] experience!">Exp Kill</button>
                 </div>
                 <div class="sheet-col-1-5">
-                  <button type="roll" class="sheet-roll" name="levelup" value="&amp;{template:default} {{name=@{character_name} Leveled Up!}} {{HP gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{HPgrowth}}*1+@{HPcap}]]}} {{Strength gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{strengthgrowth}}*1+@{strengthcap}]]}} {{Skill gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{skillgrowth}}*1+@{skillcap}]]}}  {{Speed gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{speedgrowth}}*1+@{speedcap}]]}}  {{Luck gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{luckgrowth}}*1+@{capluck}]]}}  {{Defense gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{defensegrowth}}*1+@{capdefense}]]}}  {{Resistance gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{resistancegrowth}}*1+@{capresistance}]]}}  {{Constitution gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{constitutiongrowth}}*1+@{capconstitution}]]}}">Level Up</button>
+                  <button type="roll" class="sheet-roll" name="levelup" value="&amp;{template:default} {{name=@{character_name} Leveled Up!}} {{HP gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{HPgrowth}}*1+@{HPcap}]]}} {{Strength gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{strengthgrowth}}*1+@{strengthcap}]]}} {{Magic gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{magicgrowth}}*1+@{magiccap}]]}} {{Skill gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{skillgrowth}}*1+@{skillcap}]]}}  {{Speed gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{speedgrowth}}*1+@{speedcap}]]}}  {{Luck gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{luckgrowth}}*1+@{capluck}]]}}  {{Defense gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{defensegrowth}}*1+@{capdefense}]]}}  {{Resistance gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{resistancegrowth}}*1+@{capresistance}]]}}  {{Constitution gained=[[{{ [[(@{gamedice}d100/@{gamedice})-1]], 100}<@{constitutiongrowth}}*1+@{capconstitution}]]}}">Level Up</button>
                 </div>
                 <div class="sheet-col-1-5">
                   <button type="roll" class="sheet-roll" name="dualstrike" value="&amp;{template:default} {{name=@{character_name} tries to Assist!}} {{They assisted= [[{1d100 - (?{Leader Skill|0} + @{skillcalc})/4 - ?{Support Level|None, 20|C, 30|B, 40|A, 50|S, 60}}<1 ]] times}}">Dual Strike</button>
@@ -4294,4 +4294,7 @@
 </div>
 
 </body></html>
+
+
+
 
