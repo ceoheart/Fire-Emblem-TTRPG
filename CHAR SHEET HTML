@@ -299,7 +299,7 @@
              <div class="sheet-col-1-7 sheet-center sheet-small-label">Attack Stat</div>
                                     <div class="sheet-col-1-14 sheet-center sheet-small-label">Durability</div>
                                                       <div class="sheet-col-1-14 sheet-center sheet-small-label">Max Dura.</div>
-                  <div class="sheet-col-1-14 sheet-center sheet-small-label">Weight/Spd Penalty</div>
+                  <div class="sheet-col-1-14 sheet-center sheet-small-label">Weight</div>
                   <div class="sheet-col-1-14 sheet-center sheet-small-label">Crit</div>
                   <div class="sheet-col-1-14 sheet-center sheet-small-label">Range</div>
                   <div class="sheet-col-1-10 sheet-center sheet-small-label">Avoidance</div>
