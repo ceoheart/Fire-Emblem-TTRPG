@@ -1345,7 +1345,7 @@
                 case "Dark1":
                     damagesupportmod1 = 0;
                     defensesupportmod1 = 0;
-                    hitsupportmod1 = 0.5;
+                    hitsupportmod1 = 2.5;
                     avosupportmod1 = 2.5;
                     critsupportmod1 = 2.5;
                     critavosupportmod1 = 2.5;
@@ -1466,7 +1466,7 @@
                 case "Dark2":
                     damagesupportmod2 = 0;
                     defensesupportmod2 = 0;
-                    hitsupportmod2 = 0.5;
+                    hitsupportmod2 = 2.5;
                     avosupportmod2 = 2.5;
                     critsupportmod2 = 2.5;
                     critavosupportmod2 = 2.5;
@@ -1587,7 +1587,7 @@
                 case "Dark3":
                     damagesupportmod3 = 0;
                     defensesupportmod3 = 0;
-                    hitsupportmod3 = 0.5;
+                    hitsupportmod3 = 2.5;
                     avosupportmod3 = 2.5;
                     critsupportmod3 = 2.5;
                     critavosupportmod3 = 2.5;
@@ -1708,7 +1708,7 @@
                 case "Dark4":
                     damagesupportmod4 = 0;
                     defensesupportmod4 = 0;
-                    hitsupportmod4 = 0.5;
+                    hitsupportmod4 = 2.5;
                     avosupportmod4 = 2.5;
                     critsupportmod4 = 2.5;
                     critavosupportmod4 = 2.5;
@@ -1829,7 +1829,7 @@
                 case "Dark5":
                     damagesupportmod5 = 0;
                     defensesupportmod5 = 0;
-                    hitsupportmod5 = 0.5;
+                    hitsupportmod5 = 2.5;
                     avosupportmod5 = 2.5;
                     critsupportmod5 = 2.5;
                     critavosupportmod5 = 2.5;
@@ -1950,7 +1950,7 @@
                 case "Dark6":
                     damagesupportmod6 = 0;
                     defensesupportmod6 = 0;
-                    hitsupportmod6 = 0.5;
+                    hitsupportmod6 = 2.5;
                     avosupportmod6 = 2.5;
                     critsupportmod6 = 2.5;
                     critavosupportmod6 = 2.5;
@@ -2071,7 +2071,7 @@
                 case "Dark7":
                     damagesupportmod7 = 0;
                     defensesupportmod7 = 0;
-                    hitsupportmod7 = 0.5;
+                    hitsupportmod7 = 2.5;
                     avosupportmod7 = 2.5;
                     critsupportmod7 = 2.5;
                     critavosupportmod7 = 2.5;
@@ -2192,7 +2192,7 @@
                 case "Dark8":
                     damagesupportmod8 = 0;
                     defensesupportmod8 = 0;
-                    hitsupportmod8 = 0.5;
+                    hitsupportmod8 = 2.5;
                     avosupportmod8 = 2.5;
                     critsupportmod8 = 2.5;
                     critavosupportmod8 = 2.5;
@@ -2313,7 +2313,7 @@
                 case "Dark9":
                     damagesupportmod9 = 0;
                     defensesupportmod9 = 0;
-                    hitsupportmod9 = 0.5;
+                    hitsupportmod9 = 2.5;
                     avosupportmod9 = 2.5;
                     critsupportmod9 = 2.5;
                     critavosupportmod9 = 2.5;
@@ -2434,7 +2434,7 @@
                 case "Dark10":
                     damagesupportmod10 = 0;
                     defensesupportmod10 = 0;
-                    hitsupportmod10 = 0.5;
+                    hitsupportmod10 = 2.5;
                     avosupportmod10 = 2.5;
                     critsupportmod10 = 2.5;
                     critavosupportmod10 = 2.5;
@@ -2555,7 +2555,7 @@
                 case "Dark11":
                     damagesupportmod11 = 0;
                     defensesupportmod11 = 0;
-                    hitsupportmod11 = 0.5;
+                    hitsupportmod11 = 2.5;
                     avosupportmod11 = 2.5;
                     critsupportmod11 = 2.5;
                     critavosupportmod11 = 2.5;
@@ -2676,7 +2676,7 @@
                 case "Dark12":
                     damagesupportmod12 = 0;
                     defensesupportmod12 = 0;
-                    hitsupportmod12 = 0.5;
+                    hitsupportmod12 = 2.5;
                     avosupportmod12 = 2.5;
                     critsupportmod12 = 2.5;
                     critavosupportmod12 = 2.5;
@@ -2797,7 +2797,7 @@
                 case "Dark13":
                     damagesupportmod13 = 0;
                     defensesupportmod13 = 0;
-                    hitsupportmod13 = 0.5;
+                    hitsupportmod13 = 2.5;
                     avosupportmod13 = 2.5;
                     critsupportmod13 = 2.5;
                     critavosupportmod13 = 2.5;
@@ -2918,7 +2918,7 @@
                 case "Dark14":
                     damagesupportmod14 = 0;
                     defensesupportmod14 = 0;
-                    hitsupportmod14 = 0.5;
+                    hitsupportmod14 = 2.5;
                     avosupportmod14 = 2.5;
                     critsupportmod14 = 2.5;
                     critavosupportmod14 = 2.5;
@@ -3039,7 +3039,7 @@
                 case "Dark15":
                     damagesupportmod15 = 0;
                     defensesupportmod15 = 0;
-                    hitsupportmod15 = 0.5;
+                    hitsupportmod15 = 2.5;
                     avosupportmod15 = 2.5;
                     critsupportmod15 = 2.5;
                     critavosupportmod15 = 2.5;
@@ -3160,7 +3160,7 @@
                 case "Dark16":
                     damagesupportmod16 = 0;
                     defensesupportmod16 = 0;
-                    hitsupportmod16 = 0.5;
+                    hitsupportmod16 = 2.5;
                     avosupportmod16 = 2.5;
                     critsupportmod16 = 2.5;
                     critavosupportmod16 = 2.5;
@@ -3281,7 +3281,7 @@
                 case "Dark17":
                     damagesupportmod17 = 0;
                     defensesupportmod17 = 0;
-                    hitsupportmod17 = 0.5;
+                    hitsupportmod17 = 2.5;
                     avosupportmod17 = 2.5;
                     critsupportmod17 = 2.5;
                     critavosupportmod17 = 2.5;
@@ -3402,7 +3402,7 @@
                 case "Dark18":
                     damagesupportmod18 = 0;
                     defensesupportmod18 = 0;
-                    hitsupportmod18 = 0.5;
+                    hitsupportmod18 = 2.5;
                     avosupportmod18 = 2.5;
                     critsupportmod18 = 2.5;
                     critavosupportmod18 = 2.5;
@@ -3523,7 +3523,7 @@
                 case "Dark19":
                     damagesupportmod19 = 0;
                     defensesupportmod19 = 0;
-                    hitsupportmod19 = 0.5;
+                    hitsupportmod19 = 2.5;
                     avosupportmod19 = 2.5;
                     critsupportmod19 = 2.5;
                     critavosupportmod19 = 2.5;
@@ -3644,7 +3644,7 @@
                 case "Dark20":
                     damagesupportmod20 = 0;
                     defensesupportmod20 = 0;
-                    hitsupportmod20 = 0.5;
+                    hitsupportmod20 = 2.5;
                     avosupportmod20 = 2.5;
                     critsupportmod20 = 2.5;
                     critavosupportmod20 = 2.5;
@@ -3765,7 +3765,7 @@
                 case "Dark21":
                     damagesupportmod21 = 0;
                     defensesupportmod21 = 0;
-                    hitsupportmod21 = 0.5;
+                    hitsupportmod21 = 2.5;
                     avosupportmod21 = 2.5;
                     critsupportmod21 = 2.5;
                     critavosupportmod21 = 2.5;
@@ -3886,7 +3886,7 @@
                 case "Dark22":
                     damagesupportmod22 = 0;
                     defensesupportmod22 = 0;
-                    hitsupportmod22 = 0.5;
+                    hitsupportmod22 = 2.5;
                     avosupportmod22 = 2.5;
                     critsupportmod22 = 2.5;
                     critavosupportmod22 = 2.5;
@@ -4007,7 +4007,7 @@
                 case "Dark23":
                     damagesupportmod23 = 0;
                     defensesupportmod23 = 0;
-                    hitsupportmod23 = 0.5;
+                    hitsupportmod23 = 2.5;
                     avosupportmod23 = 2.5;
                     critsupportmod23 = 2.5;
                     critavosupportmod23 = 2.5;
@@ -4128,7 +4128,7 @@
                 case "Dark24":
                     damagesupportmod24 = 0;
                     defensesupportmod24 = 0;
-                    hitsupportmod24 = 0.5;
+                    hitsupportmod24 = 2.5;
                     avosupportmod24 = 2.5;
                     critsupportmod24 = 2.5;
                     critavosupportmod24 = 2.5;
